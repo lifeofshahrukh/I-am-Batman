@@ -1,2 +1,5 @@
-# I-am-Batman
-There is Batman inside you. So here's an app to have your own batman Name logo.
+# batname
+
+This simple little app lets you generate logos like the "The Batman (2022)" film logo. Enjoy!
+
+https://batname.vercel.app
